@@ -45,29 +45,29 @@ const Main = () => {
 
   return (
     <div className={isDark ? "dark-mode" : null}>
-      <StyleProvider value={{isDark: isDark, changeTheme: changeTheme}}>
-        {isShowingSplashAnimation && splashScreen.enabled ? (
+      <StyleProvider value={{isDark: isDark}}>
+        {/* {isShowingSplashAnimation && splashScreen.enabled ? (
           <SplashScreen />
-        ) : (
+        ) : ( */}
           <>
-            <Header />
+            {/* <Header /> */}
             <Greeting />
             <Skills />
-            <StackProgress />
-            <Education />
-            <WorkExperience />
             <Projects />
             <StartupProject />
-            <Achievement />
-            <Blogs />
-            <Talks />
-            <Twitter />
-            <Podcast />
+            <Education />
+            <StackProgress />
+            {/* <WorkExperience /> */}
+            {/* <Achievement /> */}
+            {/* <Blogs /> */}
+            {/* <Talks /> */}
+            {/* <Twitter />
+            <Podcast /> */}
             <Profile />
             <Footer />
             <ScrollToTopButton />
           </>
-        )}
+        
       </StyleProvider>
     </div>
   );

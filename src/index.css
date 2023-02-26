@@ -19,6 +19,7 @@ code {
 html,
 body {
   scroll-behavior: smooth;
+  background-color:rgb(230, 211, 214);
 }
 body {
   margin: 0;
