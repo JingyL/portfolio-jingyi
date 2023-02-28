@@ -208,7 +208,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "jobly-ljy.surge.sh"
+          url: "https://jobly-z07x.onrender.com/"
         }
       ]
     }
