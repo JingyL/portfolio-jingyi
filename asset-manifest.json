@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7167eece.css",
+    "main.js": "/static/js/main.e489f59d.js",
+    "static/css/64.917cfe77.chunk.css": "/static/css/64.917cfe77.chunk.css",
+    "static/js/64.a2201178.chunk.js": "/static/js/64.a2201178.chunk.js",
+    "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
+    "static/js/769.7f15e30f.chunk.js": "/static/js/769.7f15e30f.chunk.js",
+    "static/media/realstock.png": "/static/media/realstock.302f4eebebfa13141fc7.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Headshot.jpeg": "/static/media/Headshot.9e5677c909eee5b25c9b.jpeg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/tc.png": "/static/media/tc.d3ffae516b69b8ac7be0.png",
+    "static/media/netflixClone.jpeg": "/static/media/netflixClone.94a23b5ca31b3215c8c5.jpeg",
+    "static/media/BU.png": "/static/media/BU.088f24e13c5a7a00e020.png",
+    "static/media/springboard.png": "/static/media/springboard.c32c0348b5fa9e9e2d6c.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/Jobly.jpeg": "/static/media/Jobly.3b3197ba95d5e573cafa.jpeg",
+    "static/media/toDoWeb.jpeg": "/static/media/toDoWeb.09292fea7c46ebea2e54.jpeg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "main.7167eece.css.map": "/static/css/main.7167eece.css.map",
+    "main.e489f59d.js.map": "/static/js/main.e489f59d.js.map",
+    "64.917cfe77.chunk.css.map": "/static/css/64.917cfe77.chunk.css.map",
+    "64.a2201178.chunk.js.map": "/static/js/64.a2201178.chunk.js.map",
+    "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
+    "769.7f15e30f.chunk.js.map": "/static/js/769.7f15e30f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7167eece.css",
+    "static/js/main.e489f59d.js"
+  ]
+}
