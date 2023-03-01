@@ -168,13 +168,28 @@ const bigProjects = {
   subtitle: "Those projects are all full-stack projects done by myself or within team of two",
   projects: [
     {
+      image: require("./assets/images/Jobly.jpeg"),
+      projectName: "Jobly",
+      projectDesc: "Jobly is a web app which users can search companies, opening job positions and applied.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://jobly-z07x.onrender.com/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/JingyL/React-Jobly"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/netflixClone.jpeg"),
       projectName: "Netflix Clone",
       projectDesc: "Netflix-Clone is a full stack application frontend with React and backend with Node. Users can search movies, watch trailers and overviews and save movies.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "jeflix.surge.sh"
+          name: "Visit Github",
+          url: "https://github.com/JingyL/Netflix"
         }
         //  you can add extra buttons here.
       ]
@@ -185,8 +200,8 @@ const bigProjects = {
       projectDesc: "To Do Web App is a database-driven website using weather API and deployed with Heroku. Through the web app, users can manage their projects and archive past works. ",
       footerLink: [
         {
-          name: "Visit Website",
-          url: " https://todo-web-jingyi.herokuapp.com/"
+          name: "Visit Github",
+          url: " https://github.com/JingyL/Capstone1"
         }
       ]
     },
@@ -198,17 +213,6 @@ const bigProjects = {
         {
           name: "Visit Github",
           url: "https://github.com/JingyL/RealTimeStock"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/Jobly.jpeg"),
-      projectName: "Jobly",
-      projectDesc: "Jobly is a web app which users can search companies, opening job positions and applied.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://jobly-z07x.onrender.com/"
         }
       ]
     }
